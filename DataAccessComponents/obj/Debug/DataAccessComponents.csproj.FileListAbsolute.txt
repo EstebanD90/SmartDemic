@@ -1,0 +1,9 @@
+D:\PERFIL 2020\Google Drive\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\DataAccessComponents\bin\Debug\DataAccessComponents.dll
+D:\PERFIL 2020\Google Drive\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\DataAccessComponents\bin\Debug\DataAccessComponents.pdb
+D:\PERFIL 2020\Google Drive\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\DataAccessComponents\bin\Debug\Entitites.dll
+D:\PERFIL 2020\Google Drive\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\DataAccessComponents\bin\Debug\Entitites.pdb
+D:\PERFIL 2020\Google Drive\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\DataAccessComponents\obj\Debug\DataAccessComponents.csproj.AssemblyReference.cache
+D:\PERFIL 2020\Google Drive\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\DataAccessComponents\obj\Debug\DataAccessComponents.csproj.CoreCompileInputs.cache
+D:\PERFIL 2020\Google Drive\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\DataAccessComponents\obj\Debug\DataAccessComponents.csproj.CopyComplete
+D:\PERFIL 2020\Google Drive\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\DataAccessComponents\obj\Debug\DataAccessComponents.dll
+D:\PERFIL 2020\Google Drive\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\DataAccessComponents\obj\Debug\DataAccessComponents.pdb

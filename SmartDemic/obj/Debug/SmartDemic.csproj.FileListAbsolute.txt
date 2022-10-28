@@ -1,0 +1,14 @@
+C:\Users\Dell\Desktop\TP Diploma\SmartDemic\SmartDemic\bin\Debug\SmartDemic.exe.config
+C:\Users\Dell\Desktop\TP Diploma\SmartDemic\SmartDemic\bin\Debug\SmartDemic.exe
+C:\Users\Dell\Desktop\TP Diploma\SmartDemic\SmartDemic\bin\Debug\SmartDemic.pdb
+C:\Users\Dell\Desktop\TP Diploma\SmartDemic\SmartDemic\obj\Debug\SmartDemic.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\TP Diploma\SmartDemic\SmartDemic\obj\Debug\SmartDemic.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\TP Diploma\SmartDemic\SmartDemic\obj\Debug\SmartDemic.Properties.Resources.resources
+C:\Users\Dell\Desktop\TP Diploma\SmartDemic\SmartDemic\obj\Debug\SmartDemic.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\TP Diploma\SmartDemic\SmartDemic\obj\Debug\SmartDemic.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\TP Diploma\SmartDemic\SmartDemic\obj\Debug\SmartDemic.exe
+C:\Users\Dell\Desktop\TP Diploma\SmartDemic\SmartDemic\obj\Debug\SmartDemic.pdb
+C:\Users\Dell\Desktop\TP Diploma\SmartDemic\SmartDemic\obj\Debug\SmartDemic.MainForm.resources
+C:\Users\Dell\Desktop\TP Diploma\SmartDemic\SmartDemic\bin\Debug\zu\SmartDemic.resources.dll
+C:\Users\Dell\Desktop\TP Diploma\SmartDemic\SmartDemic\obj\Debug\SmartDemic.MainForm.zu.resources
+C:\Users\Dell\Desktop\TP Diploma\SmartDemic\SmartDemic\obj\Debug\zu\SmartDemic.resources.dll

@@ -1,0 +1,286 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F22DFC8B-B7D1-44B6-813C-32905E6BFA4E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>SmartDemic</RootNamespace>
+    <AssemblyName>SmartDemic</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="FontAwesome.Sharp, Version=6.1.1.0, Culture=neutral, PublicKeyToken=d16d1e4e568ec10f, processorArchitecture=MSIL">
+      <HintPath>..\packages\FontAwesome.Sharp.6.1.1\lib\net472\FontAwesome.Sharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AnalysisServices.AdomdClient, Version=10.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Telerik.WinControls, Version=2022.2.622.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e" />
+    <Reference Include="Telerik.WinControls.ChartView, Version=2022.2.622.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e" />
+    <Reference Include="Telerik.WinControls.GridView, Version=2022.2.622.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e" />
+    <Reference Include="Telerik.WinControls.PivotGrid, Version=2022.2.622.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.WinControls.Themes.Aqua, Version=2022.2.622.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.WinControls.Themes.MaterialBlueGrey, Version=2022.2.622.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.WinControls.Themes.TelerikMetro, Version=2022.2.622.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.WinControls.UI, Version=2022.2.622.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL" />
+    <Reference Include="TelerikCommon, Version=2022.2.622.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e" />
+    <Reference Include="TelerikData, Version=2022.2.622.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AyudaForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AyudaForm.Designer.cs">
+      <DependentUpon>AyudaForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Configuracion\adminFamiliasPatentesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Configuracion\adminFamiliasPatentesForm.Designer.cs">
+      <DependentUpon>adminFamiliasPatentesForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Configuracion\adminUsuariosForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Configuracion\adminUsuariosForm.Designer.cs">
+      <DependentUpon>adminUsuariosForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gestion Administrativa\ActividadesExternasForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gestion Administrativa\ActividadesExternasForm.Designer.cs">
+      <DependentUpon>ActividadesExternasForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gestion Administrativa\AlumnosForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gestion Administrativa\AlumnosForm.Designer.cs">
+      <DependentUpon>AlumnosForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gestion Administrativa\DocentesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gestion Administrativa\DocentesForm.Designer.cs">
+      <DependentUpon>DocentesForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gestion Docente\AsistenciasForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gestion Docente\AsistenciasForm.Designer.cs">
+      <DependentUpon>AsistenciasForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gestion Docente\CalificacionesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gestion Docente\CalificacionesForm.Designer.cs">
+      <DependentUpon>CalificacionesForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gestion Docente\ExamenesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gestion Docente\ExamenesForm.Designer.cs">
+      <DependentUpon>ExamenesForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gestion Inventario\InventarioForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gestion Inventario\InventarioForm.Designer.cs">
+      <DependentUpon>InventarioForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gestion Inventario\PresupuestoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gestion Inventario\PresupuestoForm.Designer.cs">
+      <DependentUpon>PresupuestoForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gestion Modulos\ModulosForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gestion Modulos\ModulosForm.Designer.cs">
+      <DependentUpon>ModulosForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interfaces\AlumnosInterface.cs" />
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\ReportesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\ReportesForm.Designer.cs">
+      <DependentUpon>ReportesForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gestion Administrativa\ObservacionesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gestion Administrativa\ObservacionesForm.Designer.cs">
+      <DependentUpon>ObservacionesForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Gestion Administrativa\ReunionesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gestion Administrativa\ReunionesForm.Designer.cs">
+      <DependentUpon>ReunionesForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TC1_GestionAcademicaDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>TC1_GestionAcademicaDataSet.xsd</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AyudaForm.resx">
+      <DependentUpon>AyudaForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Configuracion\adminFamiliasPatentesForm.resx">
+      <DependentUpon>adminFamiliasPatentesForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Configuracion\adminUsuariosForm.resx">
+      <DependentUpon>adminUsuariosForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gestion Administrativa\ActividadesExternasForm.resx">
+      <DependentUpon>ActividadesExternasForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gestion Administrativa\AlumnosForm.resx">
+      <DependentUpon>AlumnosForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gestion Administrativa\DocentesForm.resx">
+      <DependentUpon>DocentesForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gestion Docente\AsistenciasForm.resx">
+      <DependentUpon>AsistenciasForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gestion Docente\CalificacionesForm.resx">
+      <DependentUpon>CalificacionesForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gestion Docente\ExamenesForm.resx">
+      <DependentUpon>ExamenesForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gestion Inventario\InventarioForm.resx">
+      <DependentUpon>InventarioForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gestion Inventario\PresupuestoForm.resx">
+      <DependentUpon>PresupuestoForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gestion Modulos\ModulosForm.resx">
+      <DependentUpon>ModulosForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\ReportesForm.resx">
+      <DependentUpon>ReportesForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.zu.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gestion Administrativa\ObservacionesForm.resx">
+      <DependentUpon>ObservacionesForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Gestion Administrativa\ReunionesForm.resx">
+      <DependentUpon>ReunionesForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="TC1_GestionAcademicaDataSet.xsc">
+      <DependentUpon>TC1_GestionAcademicaDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="TC1_GestionAcademicaDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>TC1_GestionAcademicaDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="TC1_GestionAcademicaDataSet.xss">
+      <DependentUpon>TC1_GestionAcademicaDataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Business\BusinessComponents.csproj">
+      <Project>{d09a4935-c87d-4b0a-9d05-6b2c09a2115d}</Project>
+      <Name>BusinessComponents</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Entitites\Entitites.csproj">
+      <Project>{1def4623-5b6f-462e-93cb-221a8f17fae4}</Project>
+      <Name>Entitites</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Framework\Framework.csproj">
+      <Project>{dcb3e683-25d4-46fe-956d-adaeab2a9849}</Project>
+      <Name>Framework</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

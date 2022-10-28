@@ -1,0 +1,39 @@
+D:\PERFIL 2020\Google Drive\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\Framework\bin\Debug\Framework.dll
+D:\PERFIL 2020\Google Drive\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\Framework\bin\Debug\Framework.pdb
+D:\PERFIL 2020\Google Drive\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\Framework\obj\Debug\Framework.csproj.AssemblyReference.cache
+D:\PERFIL 2020\Google Drive\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\Framework\obj\Debug\Interop.MSDAOSP.dll
+D:\PERFIL 2020\Google Drive\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\Framework\obj\Debug\Framework.csproj.ResolveComReference.cache
+D:\PERFIL 2020\Google Drive\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\Framework\obj\Debug\Framework.csproj.CoreCompileInputs.cache
+D:\PERFIL 2020\Google Drive\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\Framework\obj\Debug\Framework.csproj.CopyComplete
+D:\PERFIL 2020\Google Drive\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\Framework\obj\Debug\Framework.dll
+D:\PERFIL 2020\Google Drive\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\Framework\obj\Debug\Framework.pdb
+D:\PERFIL 2020\Google Drive\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\Framework\bin\Debug\DataAccessComponents.dll
+D:\PERFIL 2020\Google Drive\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\Framework\bin\Debug\Entitites.dll
+D:\PERFIL 2020\Google Drive\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\Framework\bin\Debug\DataAccessComponents.pdb
+D:\PERFIL 2020\Google Drive\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\Framework\bin\Debug\Entitites.pdb
+G:\Mi unidad\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\Framework\bin\Debug\Framework.dll
+G:\Mi unidad\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\Framework\bin\Debug\Framework.pdb
+G:\Mi unidad\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\Framework\bin\Debug\DataAccessComponents.dll
+G:\Mi unidad\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\Framework\bin\Debug\Entitites.dll
+G:\Mi unidad\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\Framework\bin\Debug\DataAccessComponents.pdb
+G:\Mi unidad\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\Framework\bin\Debug\Entitites.pdb
+G:\Mi unidad\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\Framework\obj\Debug\Framework.csproj.AssemblyReference.cache
+G:\Mi unidad\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\Framework\obj\Debug\Interop.MSDAOSP.dll
+G:\Mi unidad\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\Framework\obj\Debug\Framework.csproj.ResolveComReference.cache
+G:\Mi unidad\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\Framework\obj\Debug\Framework.csproj.CoreCompileInputs.cache
+G:\Mi unidad\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\Framework\obj\Debug\Framework.csproj.CopyComplete
+G:\Mi unidad\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\Framework\obj\Debug\Framework.dll
+G:\Mi unidad\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\Framework\obj\Debug\Framework.pdb
+C:\SmartDemic\Framework\bin\Debug\Framework.dll
+C:\SmartDemic\Framework\bin\Debug\Framework.pdb
+C:\SmartDemic\Framework\bin\Debug\DataAccessComponents.dll
+C:\SmartDemic\Framework\bin\Debug\Entitites.dll
+C:\SmartDemic\Framework\bin\Debug\DataAccessComponents.pdb
+C:\SmartDemic\Framework\bin\Debug\Entitites.pdb
+C:\SmartDemic\Framework\obj\Debug\Framework.csproj.AssemblyReference.cache
+C:\SmartDemic\Framework\obj\Debug\Interop.MSDAOSP.dll
+C:\SmartDemic\Framework\obj\Debug\Framework.csproj.ResolveComReference.cache
+C:\SmartDemic\Framework\obj\Debug\Framework.csproj.CoreCompileInputs.cache
+C:\SmartDemic\Framework\obj\Debug\Framework.csproj.CopyComplete
+C:\SmartDemic\Framework\obj\Debug\Framework.dll
+C:\SmartDemic\Framework\obj\Debug\Framework.pdb

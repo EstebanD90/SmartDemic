@@ -1,0 +1,6 @@
+D:\PERFIL 2020\Google Drive\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\Entitites\bin\Debug\Entitites.dll
+D:\PERFIL 2020\Google Drive\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\Entitites\bin\Debug\Entitites.pdb
+D:\PERFIL 2020\Google Drive\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\Entitites\obj\Debug\Entitites.csproj.AssemblyReference.cache
+D:\PERFIL 2020\Google Drive\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\Entitites\obj\Debug\Entitites.csproj.CoreCompileInputs.cache
+D:\PERFIL 2020\Google Drive\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\Entitites\obj\Debug\Entitites.dll
+D:\PERFIL 2020\Google Drive\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\Entitites\obj\Debug\Entitites.pdb

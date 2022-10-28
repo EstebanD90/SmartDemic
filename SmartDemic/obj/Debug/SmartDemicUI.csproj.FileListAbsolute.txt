@@ -1,0 +1,173 @@
+D:\PERFIL 2020\Google Drive\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\bin\Debug\SmartDemic.exe.config
+D:\PERFIL 2020\Google Drive\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\bin\Debug\SmartDemic.exe
+D:\PERFIL 2020\Google Drive\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\bin\Debug\SmartDemic.pdb
+D:\PERFIL 2020\Google Drive\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\bin\Debug\zu\SmartDemic.resources.dll
+D:\PERFIL 2020\Google Drive\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\bin\Debug\Microsoft.AnalysisServices.AdomdClient.dll
+D:\PERFIL 2020\Google Drive\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\bin\Debug\Telerik.WinControls.ChartView.dll
+D:\PERFIL 2020\Google Drive\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\bin\Debug\Telerik.WinControls.dll
+D:\PERFIL 2020\Google Drive\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\bin\Debug\Telerik.WinControls.GridView.dll
+D:\PERFIL 2020\Google Drive\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\bin\Debug\Telerik.WinControls.PivotGrid.dll
+D:\PERFIL 2020\Google Drive\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\bin\Debug\Telerik.WinControls.Themes.Aqua.dll
+D:\PERFIL 2020\Google Drive\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\bin\Debug\Telerik.WinControls.Themes.MaterialBlueGrey.dll
+D:\PERFIL 2020\Google Drive\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\bin\Debug\Telerik.WinControls.Themes.TelerikMetro.dll
+D:\PERFIL 2020\Google Drive\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\bin\Debug\Telerik.WinControls.UI.dll
+D:\PERFIL 2020\Google Drive\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\bin\Debug\TelerikCommon.dll
+D:\PERFIL 2020\Google Drive\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\bin\Debug\TelerikData.dll
+D:\PERFIL 2020\Google Drive\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\bin\Debug\Telerik.WinControls.xml
+D:\PERFIL 2020\Google Drive\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\bin\Debug\Telerik.WinControls.ChartView.xml
+D:\PERFIL 2020\Google Drive\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\bin\Debug\Telerik.WinControls.GridView.xml
+D:\PERFIL 2020\Google Drive\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\bin\Debug\Telerik.WinControls.PivotGrid.xml
+D:\PERFIL 2020\Google Drive\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\bin\Debug\Telerik.WinControls.UI.xml
+D:\PERFIL 2020\Google Drive\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\bin\Debug\TelerikData.xml
+D:\PERFIL 2020\Google Drive\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\obj\Debug\SmartDemicUI.csproj.AssemblyReference.cache
+D:\PERFIL 2020\Google Drive\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\obj\Debug\SmartDemic.AyudaForm.resources
+D:\PERFIL 2020\Google Drive\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\obj\Debug\SmartDemic.ActividadesExternasForm.resources
+D:\PERFIL 2020\Google Drive\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\obj\Debug\SmartDemic.AlumnosForm.resources
+D:\PERFIL 2020\Google Drive\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\obj\Debug\SmartDemic.DocentesForm.resources
+D:\PERFIL 2020\Google Drive\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\obj\Debug\SmartDemic.Gestion_Docente.AsistenciasForm.resources
+D:\PERFIL 2020\Google Drive\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\obj\Debug\SmartDemic.Gestion_Docente.CalificacionesForm.resources
+D:\PERFIL 2020\Google Drive\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\obj\Debug\SmartDemic.Gestion_Docente.ExamenesForm.resources
+D:\PERFIL 2020\Google Drive\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\obj\Debug\SmartDemic.Gestion_Inventario.InventarioForm.resources
+D:\PERFIL 2020\Google Drive\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\obj\Debug\SmartDemic.Gestion_Inventario.PresupuestoForm.resources
+D:\PERFIL 2020\Google Drive\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\obj\Debug\SmartDemic.Gestion_Modulos.ModulosForm.resources
+D:\PERFIL 2020\Google Drive\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\obj\Debug\SmartDemic.MainForm.resources
+D:\PERFIL 2020\Google Drive\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\obj\Debug\SmartDemic.ObservacionesForm.resources
+D:\PERFIL 2020\Google Drive\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\obj\Debug\SmartDemic.Properties.Resources.resources
+D:\PERFIL 2020\Google Drive\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\obj\Debug\SmartDemic.ReunionesForm.resources
+D:\PERFIL 2020\Google Drive\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\obj\Debug\SmartDemic.MainForm.zu.resources
+D:\PERFIL 2020\Google Drive\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\obj\Debug\SmartDemicUI.csproj.GenerateResource.cache
+D:\PERFIL 2020\Google Drive\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\obj\Debug\SmartDemic.exe.licenses
+D:\PERFIL 2020\Google Drive\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\obj\Debug\SmartDemicUI.csproj.CoreCompileInputs.cache
+D:\PERFIL 2020\Google Drive\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\obj\Debug\zu\SmartDemic.resources.dll
+D:\PERFIL 2020\Google Drive\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\obj\Debug\SmartDemicUI.csproj.CopyComplete
+D:\PERFIL 2020\Google Drive\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\obj\Debug\SmartDemic.exe
+D:\PERFIL 2020\Google Drive\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\obj\Debug\SmartDemic.pdb
+D:\PERFIL 2020\Google Drive\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\obj\Debug\SmartDemic.Configuracion.adminFamiliasPatentesForm.resources
+D:\PERFIL 2020\Google Drive\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\obj\Debug\SmartDemic.Configuracion.adminUsuariosForm.resources
+D:\PERFIL 2020\Google Drive\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\obj\Debug\SmartDemic.Gestion_Reportes.ReportesForm.resources
+D:\PERFIL 2020\Google Drive\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\bin\Debug\Business.dll
+D:\PERFIL 2020\Google Drive\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\bin\Debug\Entitites.dll
+D:\PERFIL 2020\Google Drive\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\bin\Debug\DataAccessComponents.dll
+D:\PERFIL 2020\Google Drive\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\bin\Debug\Business.pdb
+D:\PERFIL 2020\Google Drive\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\bin\Debug\Entitites.pdb
+D:\PERFIL 2020\Google Drive\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\bin\Debug\DataAccessComponents.pdb
+D:\PERFIL 2020\Google Drive\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\bin\Debug\FontAwesome.Sharp.dll
+D:\PERFIL 2020\Google Drive\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\obj\Debug\SmartDemic.Login.resources
+D:\PERFIL 2020\Google Drive\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\bin\Debug\Framework.dll
+D:\PERFIL 2020\Google Drive\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\bin\Debug\Framework.pdb
+G:\Mi unidad\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\obj\Debug\SmartDemicUI.csproj.AssemblyReference.cache
+G:\Mi unidad\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\obj\Debug\SmartDemicUI.csproj.SuggestedBindingRedirects.cache
+G:\Mi unidad\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\obj\Debug\SmartDemic.exe
+G:\Mi unidad\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\obj\Debug\SmartDemic.pdb
+G:\Mi unidad\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\bin\Debug\SmartDemic.exe.config
+G:\Mi unidad\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\bin\Debug\SmartDemic.exe
+G:\Mi unidad\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\bin\Debug\SmartDemic.pdb
+G:\Mi unidad\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\bin\Debug\zu\SmartDemic.resources.dll
+G:\Mi unidad\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\bin\Debug\Business.dll
+G:\Mi unidad\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\bin\Debug\Entitites.dll
+G:\Mi unidad\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\bin\Debug\FontAwesome.Sharp.dll
+G:\Mi unidad\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\bin\Debug\Framework.dll
+G:\Mi unidad\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\bin\Debug\Microsoft.AnalysisServices.AdomdClient.dll
+G:\Mi unidad\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\bin\Debug\Telerik.WinControls.ChartView.dll
+G:\Mi unidad\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\bin\Debug\Telerik.WinControls.dll
+G:\Mi unidad\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\bin\Debug\Telerik.WinControls.GridView.dll
+G:\Mi unidad\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\bin\Debug\Telerik.WinControls.PivotGrid.dll
+G:\Mi unidad\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\bin\Debug\Telerik.WinControls.Themes.Aqua.dll
+G:\Mi unidad\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\bin\Debug\Telerik.WinControls.Themes.MaterialBlueGrey.dll
+G:\Mi unidad\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\bin\Debug\Telerik.WinControls.Themes.TelerikMetro.dll
+G:\Mi unidad\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\bin\Debug\Telerik.WinControls.UI.dll
+G:\Mi unidad\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\bin\Debug\TelerikCommon.dll
+G:\Mi unidad\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\bin\Debug\TelerikData.dll
+G:\Mi unidad\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\bin\Debug\DataAccessComponents.dll
+G:\Mi unidad\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\bin\Debug\Business.pdb
+G:\Mi unidad\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\bin\Debug\Entitites.pdb
+G:\Mi unidad\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\bin\Debug\Framework.pdb
+G:\Mi unidad\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\bin\Debug\Telerik.WinControls.xml
+G:\Mi unidad\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\bin\Debug\Telerik.WinControls.ChartView.xml
+G:\Mi unidad\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\bin\Debug\Telerik.WinControls.GridView.xml
+G:\Mi unidad\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\bin\Debug\Telerik.WinControls.PivotGrid.xml
+G:\Mi unidad\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\bin\Debug\Telerik.WinControls.UI.xml
+G:\Mi unidad\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\bin\Debug\TelerikData.xml
+G:\Mi unidad\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\bin\Debug\DataAccessComponents.pdb
+G:\Mi unidad\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\obj\Debug\SmartDemic.AyudaForm.resources
+G:\Mi unidad\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\obj\Debug\SmartDemic.Configuracion.adminFamiliasPatentesForm.resources
+G:\Mi unidad\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\obj\Debug\SmartDemic.Configuracion.adminUsuariosForm.resources
+G:\Mi unidad\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\obj\Debug\SmartDemic.ActividadesExternasForm.resources
+G:\Mi unidad\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\obj\Debug\SmartDemic.AlumnosForm.resources
+G:\Mi unidad\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\obj\Debug\SmartDemic.DocentesForm.resources
+G:\Mi unidad\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\obj\Debug\SmartDemic.Gestion_Docente.AsistenciasForm.resources
+G:\Mi unidad\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\obj\Debug\SmartDemic.Gestion_Docente.CalificacionesForm.resources
+G:\Mi unidad\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\obj\Debug\SmartDemic.Gestion_Docente.ExamenesForm.resources
+G:\Mi unidad\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\obj\Debug\SmartDemic.Gestion_Inventario.InventarioForm.resources
+G:\Mi unidad\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\obj\Debug\SmartDemic.Gestion_Inventario.PresupuestoForm.resources
+G:\Mi unidad\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\obj\Debug\SmartDemic.Gestion_Modulos.ModulosForm.resources
+G:\Mi unidad\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\obj\Debug\SmartDemic.Login.resources
+G:\Mi unidad\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\obj\Debug\SmartDemic.Gestion_Reportes.ReportesForm.resources
+G:\Mi unidad\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\obj\Debug\SmartDemic.MainForm.resources
+G:\Mi unidad\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\obj\Debug\SmartDemic.ObservacionesForm.resources
+G:\Mi unidad\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\obj\Debug\SmartDemic.Properties.Resources.resources
+G:\Mi unidad\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\obj\Debug\SmartDemic.ReunionesForm.resources
+G:\Mi unidad\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\obj\Debug\SmartDemic.MainForm.zu.resources
+G:\Mi unidad\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\obj\Debug\SmartDemicUI.csproj.GenerateResource.cache
+G:\Mi unidad\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\obj\Debug\SmartDemic.exe.licenses
+G:\Mi unidad\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\obj\Debug\SmartDemicUI.csproj.CoreCompileInputs.cache
+G:\Mi unidad\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\obj\Debug\zu\SmartDemic.resources.dll
+G:\Mi unidad\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\SmartDemic\obj\Debug\SmartDemicUI.csproj.CopyComplete
+C:\SmartDemic\SmartDemic\bin\Debug\SmartDemic.exe.config
+C:\SmartDemic\SmartDemic\bin\Debug\SmartDemic.exe
+C:\SmartDemic\SmartDemic\bin\Debug\SmartDemic.pdb
+C:\SmartDemic\SmartDemic\bin\Debug\zu\SmartDemic.resources.dll
+C:\SmartDemic\SmartDemic\bin\Debug\Business.dll
+C:\SmartDemic\SmartDemic\bin\Debug\Entitites.dll
+C:\SmartDemic\SmartDemic\bin\Debug\FontAwesome.Sharp.dll
+C:\SmartDemic\SmartDemic\bin\Debug\Framework.dll
+C:\SmartDemic\SmartDemic\bin\Debug\Microsoft.AnalysisServices.AdomdClient.dll
+C:\SmartDemic\SmartDemic\bin\Debug\Telerik.WinControls.ChartView.dll
+C:\SmartDemic\SmartDemic\bin\Debug\Telerik.WinControls.dll
+C:\SmartDemic\SmartDemic\bin\Debug\Telerik.WinControls.GridView.dll
+C:\SmartDemic\SmartDemic\bin\Debug\Telerik.WinControls.PivotGrid.dll
+C:\SmartDemic\SmartDemic\bin\Debug\Telerik.WinControls.Themes.Aqua.dll
+C:\SmartDemic\SmartDemic\bin\Debug\Telerik.WinControls.Themes.MaterialBlueGrey.dll
+C:\SmartDemic\SmartDemic\bin\Debug\Telerik.WinControls.Themes.TelerikMetro.dll
+C:\SmartDemic\SmartDemic\bin\Debug\Telerik.WinControls.UI.dll
+C:\SmartDemic\SmartDemic\bin\Debug\TelerikCommon.dll
+C:\SmartDemic\SmartDemic\bin\Debug\TelerikData.dll
+C:\SmartDemic\SmartDemic\bin\Debug\DataAccessComponents.dll
+C:\SmartDemic\SmartDemic\bin\Debug\Business.pdb
+C:\SmartDemic\SmartDemic\bin\Debug\Entitites.pdb
+C:\SmartDemic\SmartDemic\bin\Debug\Framework.pdb
+C:\SmartDemic\SmartDemic\bin\Debug\Telerik.WinControls.xml
+C:\SmartDemic\SmartDemic\bin\Debug\Telerik.WinControls.ChartView.xml
+C:\SmartDemic\SmartDemic\bin\Debug\Telerik.WinControls.GridView.xml
+C:\SmartDemic\SmartDemic\bin\Debug\Telerik.WinControls.PivotGrid.xml
+C:\SmartDemic\SmartDemic\bin\Debug\Telerik.WinControls.UI.xml
+C:\SmartDemic\SmartDemic\bin\Debug\TelerikData.xml
+C:\SmartDemic\SmartDemic\bin\Debug\DataAccessComponents.pdb
+C:\SmartDemic\SmartDemic\obj\Debug\SmartDemicUI.csproj.AssemblyReference.cache
+C:\SmartDemic\SmartDemic\obj\Debug\SmartDemicUI.csproj.SuggestedBindingRedirects.cache
+C:\SmartDemic\SmartDemic\obj\Debug\SmartDemic.AyudaForm.resources
+C:\SmartDemic\SmartDemic\obj\Debug\SmartDemic.Configuracion.adminFamiliasPatentesForm.resources
+C:\SmartDemic\SmartDemic\obj\Debug\SmartDemic.Configuracion.adminUsuariosForm.resources
+C:\SmartDemic\SmartDemic\obj\Debug\SmartDemic.ActividadesExternasForm.resources
+C:\SmartDemic\SmartDemic\obj\Debug\SmartDemic.AlumnosForm.resources
+C:\SmartDemic\SmartDemic\obj\Debug\SmartDemic.DocentesForm.resources
+C:\SmartDemic\SmartDemic\obj\Debug\SmartDemic.Gestion_Docente.AsistenciasForm.resources
+C:\SmartDemic\SmartDemic\obj\Debug\SmartDemic.Gestion_Docente.CalificacionesForm.resources
+C:\SmartDemic\SmartDemic\obj\Debug\SmartDemic.Gestion_Docente.ExamenesForm.resources
+C:\SmartDemic\SmartDemic\obj\Debug\SmartDemic.Gestion_Inventario.InventarioForm.resources
+C:\SmartDemic\SmartDemic\obj\Debug\SmartDemic.Gestion_Inventario.PresupuestoForm.resources
+C:\SmartDemic\SmartDemic\obj\Debug\SmartDemic.Gestion_Modulos.ModulosForm.resources
+C:\SmartDemic\SmartDemic\obj\Debug\SmartDemic.Login.resources
+C:\SmartDemic\SmartDemic\obj\Debug\SmartDemic.Gestion_Reportes.ReportesForm.resources
+C:\SmartDemic\SmartDemic\obj\Debug\SmartDemic.MainForm.resources
+C:\SmartDemic\SmartDemic\obj\Debug\SmartDemic.ObservacionesForm.resources
+C:\SmartDemic\SmartDemic\obj\Debug\SmartDemic.Properties.Resources.resources
+C:\SmartDemic\SmartDemic\obj\Debug\SmartDemic.ReunionesForm.resources
+C:\SmartDemic\SmartDemic\obj\Debug\SmartDemic.MainForm.zu.resources
+C:\SmartDemic\SmartDemic\obj\Debug\SmartDemicUI.csproj.GenerateResource.cache
+C:\SmartDemic\SmartDemic\obj\Debug\SmartDemic.exe.licenses
+C:\SmartDemic\SmartDemic\obj\Debug\SmartDemicUI.csproj.CoreCompileInputs.cache
+C:\SmartDemic\SmartDemic\obj\Debug\zu\SmartDemic.resources.dll
+C:\SmartDemic\SmartDemic\obj\Debug\SmartDemicUI.csproj.CopyComplete
+C:\SmartDemic\SmartDemic\obj\Debug\SmartDemic.exe
+C:\SmartDemic\SmartDemic\obj\Debug\SmartDemic.pdb

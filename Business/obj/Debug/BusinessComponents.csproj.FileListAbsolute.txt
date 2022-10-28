@@ -1,0 +1,22 @@
+D:\PERFIL 2020\Google Drive\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\Business\bin\Debug\Business.dll
+D:\PERFIL 2020\Google Drive\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\Business\bin\Debug\Business.pdb
+D:\PERFIL 2020\Google Drive\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\Business\bin\Debug\DataAccessComponents.dll
+D:\PERFIL 2020\Google Drive\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\Business\bin\Debug\Entitites.dll
+D:\PERFIL 2020\Google Drive\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\Business\bin\Debug\DataAccessComponents.pdb
+D:\PERFIL 2020\Google Drive\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\Business\bin\Debug\Entitites.pdb
+D:\PERFIL 2020\Google Drive\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\Business\obj\Debug\BusinessComponents.csproj.AssemblyReference.cache
+D:\PERFIL 2020\Google Drive\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\Business\obj\Debug\BusinessComponents.csproj.CoreCompileInputs.cache
+D:\PERFIL 2020\Google Drive\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\Business\obj\Debug\BusinessComponents.csproj.CopyComplete
+D:\PERFIL 2020\Google Drive\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\Business\obj\Debug\Business.dll
+D:\PERFIL 2020\Google Drive\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\Business\obj\Debug\Business.pdb
+G:\Mi unidad\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\Business\bin\Debug\Business.dll
+G:\Mi unidad\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\Business\bin\Debug\Business.pdb
+G:\Mi unidad\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\Business\bin\Debug\DataAccessComponents.dll
+G:\Mi unidad\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\Business\bin\Debug\Entitites.dll
+G:\Mi unidad\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\Business\bin\Debug\DataAccessComponents.pdb
+G:\Mi unidad\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\Business\bin\Debug\Entitites.pdb
+G:\Mi unidad\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\Business\obj\Debug\BusinessComponents.csproj.AssemblyReference.cache
+G:\Mi unidad\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\Business\obj\Debug\BusinessComponents.csproj.CoreCompileInputs.cache
+G:\Mi unidad\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\Business\obj\Debug\BusinessComponents.csproj.CopyComplete
+G:\Mi unidad\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\Business\obj\Debug\Business.dll
+G:\Mi unidad\ESTEBAN\FACULTAD\MATERIAL DE ESTUDIO Y TRABAJOS\2022\Campo y Diploma\SmartDemic\Business\obj\Debug\Business.pdb
